@@ -16,5 +16,5 @@ A simple Node.js and Express API that serves random jokes. It can return jokes f
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/sandhyasawalkar1999/random-jokes-api.git
+git clone https://github.com/sandhyasawalkar1999/Random-Joke-Api.git
 cd random-jokes-api
